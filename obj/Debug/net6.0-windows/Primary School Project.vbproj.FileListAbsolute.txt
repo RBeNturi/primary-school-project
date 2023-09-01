@@ -1,0 +1,17 @@
+E:\Ridge Benson\Primary School Project\obj\Debug\net6.0-windows\Primary School Project.vbproj.AssemblyReference.cache
+E:\Ridge Benson\Primary School Project\obj\Debug\net6.0-windows\Primary School Project.vbproj.GenerateResource.cache
+E:\Ridge Benson\Primary School Project\obj\Debug\net6.0-windows\Primary School Project.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ridge Benson\Primary School Project\obj\Debug\net6.0-windows\Primary School Project.AssemblyInfoInputs.cache
+E:\Ridge Benson\Primary School Project\obj\Debug\net6.0-windows\Primary School Project.AssemblyInfo.vb
+E:\Ridge Benson\Primary School Project\obj\Debug\net6.0-windows\Primary School Project.vbproj.CoreCompileInputs.cache
+E:\Ridge Benson\Primary School Project\obj\Debug\net6.0-windows\Primary_School_Project.Form1.resources
+E:\Ridge Benson\Primary School Project\bin\Debug\net6.0-windows\Primary School Project.exe
+E:\Ridge Benson\Primary School Project\bin\Debug\net6.0-windows\Primary School Project.deps.json
+E:\Ridge Benson\Primary School Project\bin\Debug\net6.0-windows\Primary School Project.runtimeconfig.json
+E:\Ridge Benson\Primary School Project\bin\Debug\net6.0-windows\Primary School Project.dll
+E:\Ridge Benson\Primary School Project\bin\Debug\net6.0-windows\Primary School Project.pdb
+E:\Ridge Benson\Primary School Project\obj\Debug\net6.0-windows\Primary School Project.dll
+E:\Ridge Benson\Primary School Project\obj\Debug\net6.0-windows\refint\Primary School Project.dll
+E:\Ridge Benson\Primary School Project\obj\Debug\net6.0-windows\Primary School Project.pdb
+E:\Ridge Benson\Primary School Project\obj\Debug\net6.0-windows\Primary School Project.genruntimeconfig.cache
+E:\Ridge Benson\Primary School Project\obj\Debug\net6.0-windows\ref\Primary School Project.dll
